@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{ border:dashed 1px #C03; width:75%; margin:auto; padding:5px 12px; font-family:Tahoma, Geneva, sans-serif}
+h1{ color:#C03}
+h2{color:#333; font-size:120%}
+p{ font-size:95%; color:#333}
+hr{ width:85%; border-top:solid 3px #E8E8E8; border-bottom:none; margin:30px auto;}
+a{ color:#6CF}
+a:hover{ color:#C03}
+
