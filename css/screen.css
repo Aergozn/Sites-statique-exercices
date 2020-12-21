@@ -3,8 +3,7 @@
 }
 
 body {
-  /*background-color: aquamarine;
-  /*text-align: center;*/
+  background-color: aquamarine;
 }
 
 img {
@@ -14,32 +13,32 @@ img {
 
 h1 {
   text-align: center;
-  border: 0.5rem dashed ;
+  border: dashed;
   border-radius: 25% 10%;
 }
-nav{
+nav {
   text-align: center;
 }
-#menuPrincipal ul{
+#menuPrincipal ul {
   padding: 0;
-  margin: 50px;
+  margin: 10px;
   list-style-type: none;
 }
 
-#menuPrincipal li,#menuPrincipal a{
+#menuPrincipal li,
+#menuPrincipal a {
   display: inline-block;
 }
 
-#menuPrincipal a{
+#menuPrincipal a {
   color: #fff;
   background-color: #660033;
-  padding: 50px;
+  padding: 20px;
   border: 1px solid #000;
-  text-decoration: none ;
-
+  text-decoration: none;
 }
 
-#menuPrincipal a:hover{
+#menuPrincipal a:hover {
   color: #660033;
   background-color: #ffffff;
 }
