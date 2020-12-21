@@ -1,2 +1,2 @@
 # Sites-statique-exercices
-Exercices de créations
+Ensemble d'exercices de créations en WebDev
