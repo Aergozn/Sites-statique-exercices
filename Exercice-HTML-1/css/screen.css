@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: grey;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+  border: dashed;
+  border-radius: 25% 10%;
+}
+nav {
+  text-align: center;
+}
+#menuPrincipal ul {
+  padding: 0;
+  margin: 10px;
+  list-style-type: none;
+}
+
+#menuPrincipal li,
+#menuPrincipal a {
+  display: inline-block;
+}
+
+#menuPrincipal a {
+  color: #fff;
+  background-color: #660033;
+  padding: 20px;
+  border: 1px solid #000;
+  text-decoration: none;
+}
+
+#menuPrincipal a:hover {
+  color: #660033;
+  background-color: #ffffff;
+}
